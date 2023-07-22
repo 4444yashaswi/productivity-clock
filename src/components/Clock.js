@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 const Clock = ({ isStart, isReset }) => {
-  const [timer, setTimer] = useState(35990);
+  const [timer, setTimer] = useState(0);
 
   // Side Effects
   useEffect(() => {
