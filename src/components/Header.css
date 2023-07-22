@@ -1,0 +1,10 @@
+.header-container {
+  color: #e1e1e1;
+  padding-top: 1px;
+  border-bottom: 1px solid #7f7f7f76;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #1e1e1e;
+}

@@ -1,0 +1,52 @@
+.clock-tile {
+    text-align: left;
+    padding: 30px;
+    border-bottom: 1px solid #7f7f7f76;
+}
+
+.clock-title {
+    border: none;
+    background-color: #2d2d2d;
+    padding: 3px;
+    font-size: 26px;
+    color: #e1e1e1;
+    outline-width: 0;
+}
+
+.clock-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.clock-timer {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.clock-delete-btn {
+    height: 40px;
+    padding: 5px;
+    background-color: #2d2d2d;
+    border: none;
+    cursor: pointer;
+}
+
+.clock-delete-icon {
+    height: 30px;
+}
+
+.clock-controls {
+    width: 180px;
+    padding: 3px 20px 3px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.start-reset--btn {
+    font-size: large;
+    color: #e1e1e1;
+    background-color: #2d2d2d;
+    border: none;
+    cursor: pointer;
+}

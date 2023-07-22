@@ -1,0 +1,27 @@
+.timers-container {
+    margin: auto;
+    padding-top: 87px;
+    color: orange;
+    max-width: 1000px;
+    background-color: #2d2d2d;
+}
+
+.add-btn {
+    font-size: larger;
+    font-weight: bold;
+    color: #2d2d2d;
+    padding: 15px 19px 15px 19px;
+    border-radius: 100%;
+    border: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #5fd8b4c6;
+    cursor: pointer;
+    transition: 100ms;
+}
+
+.add-btn:active {
+    background-color: #319375c6;
+    transition: 100ms;
+}
